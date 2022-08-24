@@ -1,0 +1,19 @@
+// server
+
+// get pokemons
+// get pokemon by id
+// add pokemon --> add to the json file
+// remove pokemon --> remove from json file
+// edit pokemon --> edit in json file
+// deploy the server
+
+
+
+
+// client
+
+// pokemon listing
+// pokemon add form 
+// pokemon edit form 
+// confirmation upon action
+
